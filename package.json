@@ -1,0 +1,27 @@
+{
+  "name": "ouadie",
+  "version": "1.0.0",
+  "description": "SandBox",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ouadie-lahdioui/unitTestSandBox.git"
+  },
+  "keywords": [
+    "js",
+    "test"
+  ],
+  "author": "ouadie lahdioui",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ouadie-lahdioui/unitTestSandBox/issues"
+  },
+  "homepage": "https://github.com/ouadie-lahdioui/unitTestSandBox#readme",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^3.0.2"
+  }
+}
